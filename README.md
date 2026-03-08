@@ -23,8 +23,8 @@ Active community participant currently looking for an opportunity to contribute 
 - Following **new ecosystem launches and airdrop opportunities**
 - Reading **technical documentation and community updates**
 
-**Ecosystems explored:**  
-Ethereum • Layer2 • Cosmos • Solana
+**Project explored:**  
+Aptos • Arbitrum • Starknet • Sui • Layerzero • zksync • Story • Linea • Jumper • SaharaAI • ChainoperaAI • Omni • Sentient • Monad • Taiko ...
 
 ---
 
@@ -48,7 +48,9 @@ Ethereum • Layer2 • Cosmos • Solana
 ## 📬 Contact
 
 Telegram: @musanfree
+
 Twitter/X: https://x.com/cuti_info
+
 Discord: baophan0123
 
 ---
