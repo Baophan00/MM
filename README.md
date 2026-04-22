@@ -2,29 +2,22 @@
 
 # 👋 Web3 Community Contributor
 
-Web3 enthusiast focused on **airdrop ecosystems, testnets, and early-stage projects**.  
-Active community participant currently looking for an opportunity to contribute as a **Community Moderator**.
+Web3 enthusiast focused on **Blockchain, testnets, and early-stage projects**.  
 
 ---
 
 ## 🧠 About Me
 
 - Active Web3 user with strong interest in blockchain ecosystems  
-- Experienced with **airdrop hunting and testnet participation**  
-- Regularly reading **project documentation and ecosystem updates**  
-- Comfortable exploring new **protocols, tools, and dApps**
 
 ---
 
 ## ⚡ Web3 Experience
 
 - Participating in **testnets and early-stage projects**
+- Build games, AI Agent
 - Interacting with **DeFi protocols, bridges, and NFTs**
-- Following **new ecosystem launches and airdrop opportunities**
 - Reading **technical documentation and community updates**
-
-**Project explored:**  
-Aptos • Arbitrum • Starknet • Sui • Layerzero • zksync • Story • Linea • Jumper • SaharaAI • ChainoperaAI • Omni • Sentient • Monad • Taiko ...
 
 ---
 
@@ -37,11 +30,11 @@ Aptos • Arbitrum • Starknet • Sui • Layerzero • zksync • Story • L
 
 ---
 
-## ⏰ Availability
+## APP:
 
-- Active daily in Web3 communities  
-- Quick learner and responsive in chats  
-- Ready to support community members when needed  
+- dobby-news-agent.onrender.com
+- dobby-runner.vercel.app
+- sentient-squidgame.vercel.app
 
 ---
 
