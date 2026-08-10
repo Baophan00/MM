@@ -27,7 +27,6 @@ Web3 enthusiast with **5+ years in crypto** — focused on **airdrops, project a
 
 - Participating in **testnets and early-stage projects**
 - Building games & AI Agents, contributing to open source
-- Contributor to **NousResearch/hermes-agent** — see commits: https://github.com/NousResearch/hermes-agent/commits?author=Baophan00
 
 ---
 
